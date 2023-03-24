@@ -19,6 +19,13 @@
   },
   "homepage": "https://github.com/VndrGrhrd/template-taiwindcss-php#readme",
   "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-run": "^1.7.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.60.0",
     "tailwindcss": "^3.2.7"
   }
 }
