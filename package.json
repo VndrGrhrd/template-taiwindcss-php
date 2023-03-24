@@ -1,0 +1,24 @@
+{
+  "name": "vando_theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./source/style/input.css -o ./style.css --watch  --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VndrGrhrd/template-taiwindcss-php.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VndrGrhrd/template-taiwindcss-php/issues"
+  },
+  "homepage": "https://github.com/VndrGrhrd/template-taiwindcss-php#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
